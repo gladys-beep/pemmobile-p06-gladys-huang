@@ -27,3 +27,11 @@
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
+
+## Link Project
+
+- **GitHub Repository:** https://github.com/gladys-beep/pemmobile-p06-gladys-huang.git
+- **Expo Snack:** https://snack.expo.dev/@gladys_expo/build-shoplist-app
+
+## Link Google Docs TP12
+https://docs.google.com/document/d/1y1I4bdb1pWJ-leKiFvcZhU57eHH36S04pWgw-1NDBsA/edit?usp=sharing
