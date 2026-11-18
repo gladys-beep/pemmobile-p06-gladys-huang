@@ -33,5 +33,5 @@
 - **GitHub Repository:** https://github.com/gladys-beep/pemmobile-p06-gladys-huang.git
 - **Expo Snack:** https://snack.expo.dev/@gladys_expo/build-shoplist-app
 
-## Link Google Docs TP12
+## Link Google Docs TP13
 https://docs.google.com/document/d/1y1I4bdb1pWJ-leKiFvcZhU57eHH36S04pWgw-1NDBsA/edit?usp=sharing
