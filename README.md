@@ -14,13 +14,16 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini]
+<img width="738" height="1600" alt="tampilanproduk" src="https://github.com/user-attachments/assets/1fa10b15-389a-440a-a981-6780ae4269fa" />
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+<img width="738" height="1600" alt="tampilansearch" src="https://github.com/user-attachments/assets/0837fd0d-df13-4a2f-8b98-bbb28a11697b" />
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+<img width="738" height="1600" alt="tampilanemptystate" src="https://github.com/user-attachments/assets/a51f0c52-62ff-439c-a3ff-e9c79c0f67e5" />
+
+### Tampilan Daftar Kontak
+<img width="738" height="1600" alt="daftarkontak" src="https://github.com/user-attachments/assets/51b9be17-3331-4b4d-b155-62c674680428" />
 
 ## Cara Menjalankan
 1. Clone repo  : https://github.com/gladys-beep/pemmobile-p06-gladys-huang.git
