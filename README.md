@@ -24,9 +24,13 @@
 
 ## Cara Menjalankan
 1. Clone repo  : https://github.com/gladys-beep/pemmobile-p06-gladys-huang.git
-2. Install deps: npm install
-3. Jalankan    : npx expo start
-4. Scan QR Code dengan Expo Go di HP
+2. Install deps:
+   ```bash
+   npm install
+4. Jalankan    :
+   ```bash
+   npx expo start
+6. Scan QR Code dengan Expo Go di HP
 
 ## Link Project
 
